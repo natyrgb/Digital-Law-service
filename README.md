@@ -19,6 +19,6 @@ Digital Law Service is a comprehensive platform providing digital solutions for 
 ## Screenshots
 ![Home Page](https://github.com/natyrgb/Digital-Law-service/blob/main/Home%20(2).png?raw=true)
 ![Impact](https://github.com/natyrgb/Digital-Law-service/blob/main/impact.png?raw=true)
-![Newws]
+![Newws](https://github.com/natyrgb/Digital-Law-service/blob/main/news.png?raw=true)
 ## Contact
 For more information or to request access to the full repository, please contact me at natnael98geremew@gmail.com
