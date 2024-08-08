@@ -17,7 +17,7 @@ Digital Law Service is a comprehensive platform providing digital solutions for 
 - Authentication: JWT
 
 ## Screenshots
-![Home Page](https://github.com/your-username/digital-law-service/raw/main/screenshots/home.png)
+![Home Page](https://github.com/natyrgb/Digital-Law-service/blob/main/Home%20(2).png?raw=true)
 ![Case Management](https://github.com/your-username/digital-law-service/raw/main/screenshots/case-management.png)
 
 ## Contact
